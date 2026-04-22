@@ -1,0 +1,3 @@
+{
+  "body": "{\"timestamp\":\"2026-04-23T19:30:00Z\",\"device_id\":\"electrolyser-edge-01\",\"temperature_c\":72.4,\"pressure_bar\":18.6,\"status\":\"normal\"}"
+}
