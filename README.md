@@ -1,4 +1,5 @@
 # IndusStream – Industrial Telemetry Platform on AWS
+A simple serverless telemetry ingestion platform demonstrating edge-to-cloud architecture on AWS.
 
 ## Overview
 
@@ -62,6 +63,15 @@ infra/      infrastructure (future)
 ```
 
 ---
+
+### Successful API Call
+![API Call](assets/successful-api-call.png)
+
+### Stored Telemetry Data
+![S3](assets/s3-storage.png)
+
+### Observability (CloudWatch Logs)
+![Logs](assets/lambda-logs.png)
 
 ## Future Work
 
