@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-04-23T21:00:00Z",
+  "device_id": "electrolyser-edge-01",
+  "temperature_c": 73.1,
+  "pressure_bar": 18.9,
+  "status": "normal"
+}
