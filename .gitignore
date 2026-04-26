@@ -3,6 +3,18 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore database
+*.db
+*.sqlite
+
+# Ignore local data folder contents
+v2-edge-dashboard/data/*
+!v2-edge-dashboard/data/.gitkeep
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
 # C extensions
 *.so
 
