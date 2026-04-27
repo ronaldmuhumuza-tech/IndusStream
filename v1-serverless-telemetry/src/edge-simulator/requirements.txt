@@ -1,1 +1,5 @@
+# Defines the dependencies required for this project.
+# Install them in your Python environment using:
+#     pip install -r requirements.txt
+
 requests
