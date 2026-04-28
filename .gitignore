@@ -7,9 +7,16 @@ __pycache__/
 *.db
 *.sqlite
 
+# Ignore everything in data EXCEPT these
+data/*
+!data/sample_data.csv
+!data/schema.sql
+
 # Ignore local data folder contents
 v2-edge-dashboard/data/*
 !v2-edge-dashboard/data/.gitkeep
+!v2-edge-dashboard/data/sample_data.csv
+!v2-edge-dashboard/data/schema.sql
 
 # Ignore Python cache
 __pycache__/
