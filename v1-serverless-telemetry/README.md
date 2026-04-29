@@ -1,21 +1,10 @@
-# IndusStream – Industrial Telemetry Platform on AWS
-A simple serverless telemetry ingestion platform demonstrating edge-to-cloud architecture on AWS.
+# v1 – Serverless Telemetry
 
-## Overview
-
-IndusStream is a simple cloud-based telemetry ingestion platform that simulates how industrial systems send data from the field into the cloud.
-
-The project focuses on designing a clear, low-cost, and scalable architecture using managed AWS services.
+Simulated telemetry data is sent to AWS and processed using a fully serverless architecture.
 
 ---
 
-## Use Case
-
-A simulated industrial edge device sends telemetry data securely to AWS for validation, storage, and operational visibility.
-
----
-
-## Architecture (v1)
+## Architecture
 
 The system uses a serverless ingestion pattern:
 
