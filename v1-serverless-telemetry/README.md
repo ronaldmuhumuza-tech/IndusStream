@@ -62,15 +62,24 @@ infra/      infrastructure (future)
 ### Observability (CloudWatch Logs)
 ![Logs](assets/lambda-logs.png)
 
-## Future Work
+## Key Learnings
 
-* authentication and access control
-* private networking (VPC)
-* alerting and monitoring
-* analytics (Athena / dashboards)
+- Building serverless data ingestion pipelines  
+- Integrating API Gateway with Lambda  
+- Designing S3 storage structures for telemetry  
+- Using CloudWatch for observability  
+
+---
+
+## Future Improvements
+
+- Authentication and access control  
+- Private networking (VPC)  
+- Alerting and monitoring  
+- Query and analytics layer (Athena / dashboards)  
 
 ---
 
 ## Status
 
-Version 1 focuses on a working telemetry ingestion pipeline with a clear, explainable architecture.
+Version 1 demonstrates a working serverless telemetry ingestion pipeline with a clear and scalable architecture.
