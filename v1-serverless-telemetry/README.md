@@ -1,6 +1,6 @@
 # v1 – Serverless Telemetry
 
-Simulated telemetry data is sent to AWS and processed using a fully serverless architecture.
+Simulated telemetry data is sent to AWS and processed using a fully serverless architecture. A summary of system use cases is available here: [Use Cases](docs/use-cases.md)
 
 ---
 
