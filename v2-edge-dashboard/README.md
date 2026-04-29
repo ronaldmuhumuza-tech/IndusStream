@@ -31,9 +31,9 @@ This project implements an edge-based telemetry system using an Arduino and Rasp
 ### Start Logger
 
 ```bash
-cd 2-edge-dashboard
+cd v2-edge-dashboard
 source venv/bin/activate
-nohup python3 app.py > dashboard.out 2>&1 &
+nohup python3 edge_sqlite_logger.py > logger.out 2>&1 &
 ```
 
 ### Start Dashboard
@@ -57,3 +57,19 @@ The dashboard displays real-time environmental sensor data collected at the edge
 > Note: Sensor readings are indicative and require proper calibration for accurate measurements.
 
 ![Dashboard](docs/images/dashboard.png)
+
+## Key Learnings
+- Designing edge-based telemetry systems
+- Managing serial communication between Arduino and Raspberry Pi
+- Running persistent background processes (nohup)
+- Structuring local data storage with SQLite
+- Building real-time dashboards using Dash
+
+## Future Improvements
+- Convert logger and dashboard to system services (systemd)
+- Add alerting and threshold-based notifications
+- Integrate cloud ingestion (MQTT / AWS IoT)
+- Improve sensor calibration and data accuracy
+
+## Status
+Version 2 demonstrates a complete edge telemetry system with local processing, storage, and real-time visualisation.
