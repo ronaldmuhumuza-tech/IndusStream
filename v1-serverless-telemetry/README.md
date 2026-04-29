@@ -17,10 +17,16 @@ The system uses a serverless ingestion pattern:
 
 ## Architecture Diagram
 
-![IndusStream v1 Architecture](diagrams/indusstream-v1-architecture.png)
+![IndusStream v1 Architecture](docs/indusstream-v1-architecture.png)
 
 ---
+## Design Decisions
 
+Key architectural decisions and design considerations are documented in:
+
+- [Project Scope](docs/adr/0001-project-scope.md)
+- [Serverless Architecture](docs/adr/0002-serverless-architecture.md)
+---
 ## Data Flow
 
 1. Edge simulator sends telemetry via HTTPS
@@ -42,25 +48,14 @@ electrolyser-edge-01/2026/04/18/2026-04-18T19-30-00Z.json
 
 ---
 
-## Project Structure
-
-```
-docs/       architecture and design notes  
-diagrams/   architecture diagram  
-src/        application code  
-infra/      infrastructure (future)  
-```
-
----
-
 ### Successful API Call
-![API Call](assets/successful-api-call.png)
+![API Call](docs/successful-api-call.png)
 
 ### Stored Telemetry Data
-![S3](assets/s3-storage.png)
+![S3](docs/s3-storage.png)
 
 ### Observability (CloudWatch Logs)
-![Logs](assets/lambda-logs.png)
+![Logs](docs/lambda-logs.png)
 
 ## Key Learnings
 
