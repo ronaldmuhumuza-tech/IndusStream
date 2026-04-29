@@ -31,20 +31,29 @@ This project implements an edge-based telemetry system using an Arduino and Rasp
 ### Start Logger
 
 ```bash
-cd ~/IndusStream/v2-edge-dashboard
-nohup ~/indus_env/bin/python3 edge_sqlite_logger.py > logger.out 2>&1 &
+cd 2-edge-dashboard
+source venv/bin/activate
+nohup python3 app.py > dashboard.out 2>&1 &
 ```
 
 ### Start Dashboard
 
 ```bash
 cd dashboard
-source ~/indus_env/bin/activate
+source venv/bin/activate
 python3 app.py
 ```
 Access dashboard at:
+```bash
 http://<raspberry-pi-ip>:8050
+```
 
 ## Sample Data
-Example telemetry data is included in:
-data/sample_data.csv
+Example telemetry data is included in: [data/sample_data.csv](data/sample_data.csv)
+
+## Dashboard Preview
+
+The dashboard displays real-time environmental sensor data collected at the edge and stored locally on the Raspberry Pi. It includes basic alerting for carbon monoxide (CO) levels. 
+> Note: Sensor readings are indicative and require proper calibration for accurate measurements.
+
+![Dashboard](docs/images/dashboard.png)
