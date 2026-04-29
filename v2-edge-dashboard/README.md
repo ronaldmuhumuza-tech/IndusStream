@@ -4,7 +4,7 @@ An edge-based telemetry system using Arduino and Raspberry Pi for real-time envi
 
 ## Architecture
 
-![Architecture](docs/images/architecture.png)
+![Architecture](docs/architecture.png)
 
 ## Architecture Overview
 
@@ -56,7 +56,7 @@ Example telemetry data is included in: [data/sample_data.csv](data/sample_data.c
 The dashboard displays real-time environmental sensor data collected at the edge and stored locally on the Raspberry Pi. It includes basic alerting for carbon monoxide (CO) levels. 
 > Note: Sensor readings are indicative and require proper calibration for accurate measurements.
 
-![Dashboard](docs/images/dashboard.png)
+![Dashboard](docs/dashboard.png)
 
 ## Key Learnings
 - Designing edge-based telemetry systems
