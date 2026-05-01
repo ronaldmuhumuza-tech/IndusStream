@@ -7,7 +7,7 @@ CERTS_DIR = BASE_DIR / "certs"
 LOGS_DIR = BASE_DIR / "logs"
 
 # Local SQLite database
-DB_PATH = DATA_DIR / "indusstream.db"
+DB_FILE_PREFIX = "indusstream"
 
 # AWS IoT Core MQTT settings
 AWS_IOT_ENDPOINT = "REPLACE_WITH_YOUR_AWS_IOT_ENDPOINT"
