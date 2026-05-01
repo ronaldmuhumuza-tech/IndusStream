@@ -10,7 +10,7 @@ LOGS_DIR = BASE_DIR / "logs"
 DB_FILE_PREFIX = "indusstream"
 
 # AWS IoT Core MQTT settings
-AWS_IOT_ENDPOINT = "REPLACE_WITH_YOUR_AWS_IOT_ENDPOINT"
+AWS_IOT_ENDPOINT = "a3gt3vmsguju2d-ats.iot.eu-west-2.amazonaws.com"
 MQTT_PORT = 8883
 MQTT_TOPIC = "indusstream/v3/telemetry"
 
