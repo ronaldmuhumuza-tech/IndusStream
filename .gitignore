@@ -18,6 +18,14 @@ v2-edge-dashboard/data/*
 !v2-edge-dashboard/data/sample_data.csv
 !v2-edge-dashboard/data/schema.sql
 
+# v3 runtime/security files
+v3-edge-to-cloud/data/*
+!v3-edge-to-cloud/data/.gitkeep
+v3-edge-to-cloud/certs/*
+!v3-edge-to-cloud/certs/.gitkeep
+v3-edge-to-cloud/logs/*
+!v3-edge-to-cloud/logs/.gitkeep
+
 # Ignore Python cache
 __pycache__/
 *.pyc
