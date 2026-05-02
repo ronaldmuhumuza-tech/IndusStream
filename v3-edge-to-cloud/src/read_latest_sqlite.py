@@ -11,7 +11,7 @@ def get_today_db_path() -> Path:
 
 
 def read_latest_reading():
-    db_path = V2_DB_PATH
+    db_path = get_today_db_path()
 
     if not db_path.exists():
         raise FileNotFoundError(f"Database not found: {db_path}")
@@ -36,3 +36,6 @@ def read_latest_reading():
             return None
 
         return dict(row)
+
+    finally:
+        conn.close()
