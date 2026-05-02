@@ -8,6 +8,7 @@ LOGS_DIR = BASE_DIR / "logs"
 
 # Local SQLite database
 DB_FILE_PREFIX = "indusstream"
+V2_DB_PATH = BASE_DIR.parent / "v2-edge-dashboard" / "data" / "indusstream.db"
 
 # AWS IoT Core MQTT settings
 AWS_IOT_ENDPOINT = "a3gt3vmsguju2d-ats.iot.eu-west-2.amazonaws.com"
