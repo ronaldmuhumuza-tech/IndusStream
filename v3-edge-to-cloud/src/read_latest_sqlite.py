@@ -2,7 +2,7 @@ import sqlite3
 from pathlib import Path
 from datetime import datetime
 
-from config.settings import DATA_DIR, DB_FILE_PREFIX
+from config.settings import V2_DB_PATH
 
 
 def get_today_db_path() -> Path:
@@ -11,7 +11,7 @@ def get_today_db_path() -> Path:
 
 
 def read_latest_reading():
-    db_path = get_today_db_path()
+    db_path = V2_DB_PATH
 
     if not db_path.exists():
         raise FileNotFoundError(f"Database not found: {db_path}")
