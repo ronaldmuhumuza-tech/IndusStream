@@ -2,7 +2,7 @@ import sqlite3
 from pathlib import Path
 from datetime import datetime
 
-from config.settings import V2_DB_PATH
+from src.config.settings import V2_DB_PATH
 
 
 def get_today_db_path() -> Path:

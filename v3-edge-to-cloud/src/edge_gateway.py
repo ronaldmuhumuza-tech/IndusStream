@@ -5,7 +5,7 @@ from src.read_latest_sqlite import read_latest_reading
 from src.mqtt_client import create_mqtt_client
 from src.payload_builder import build_payload
 
-from config.settings import (
+from src.config.settings import (
     AWS_IOT_ENDPOINT,
     MQTT_PORT,
     MQTT_TOPIC,
