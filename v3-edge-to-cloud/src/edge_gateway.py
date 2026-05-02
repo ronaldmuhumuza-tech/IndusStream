@@ -1,9 +1,9 @@
 import json
 from time import sleep
 
-from read_latest_sqlite import read_latest_reading
-from mqtt_client import create_mqtt_client
-from payload_builder import build_payload
+from src.read_latest_sqlite import read_latest_reading
+from src.mqtt_client import create_mqtt_client
+from src.payload_builder import build_payload
 
 from config.settings import (
     AWS_IOT_ENDPOINT,
