@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # Project paths
-BASE_DIR = Path(__file__).resolve().parent[2]
+BASE_DIR = Path(__file__).resolve().parents[2]
 DATA_DIR = BASE_DIR / "data"
 CERTS_DIR = BASE_DIR / "certs"
 LOGS_DIR = BASE_DIR / "logs"
