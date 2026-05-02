@@ -24,14 +24,14 @@ Focus:
 - Local data processing and storage
 - Real-time visualisation over LAN
 
-### v3 – Edge to Cloud (in progress)
+### [v3 – Edge to Cloud](./3-edge-to-cloud)
 
-Extending the system to stream data from edge devices to AWS using MQTT and IoT services.
+Extending the system from local edge processing to cloud-based telemetry ingestion using using MQTT and AWS IoT services.
 
 Focus:
 - IoT architecture
-- Scalable data ingestion
-- Cloud integration
+- Scalable telemetry ingestion
+- Edge-to-cloud integration
 
 ## Stack
 
