@@ -36,13 +36,3 @@ def read_latest_reading():
             return None
 
         return dict(row)
-
-<<<<<<< HEAD
-    finally:
-        conn.close()
-=======
-
-if __name__ == "__main__":
-    latest = read_latest_reading()
-    print(latest)
->>>>>>> 472cf115fbeadccb313e6cbe16498f8d4268ab8f
