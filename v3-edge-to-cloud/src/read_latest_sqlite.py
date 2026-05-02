@@ -5,9 +5,8 @@ from datetime import datetime
 from src.config.settings import V2_DB_PATH
 
 
-def get_today_db_path() -> Path:
-    today = datetime.now().strftime("%Y-%m-%d")
-    return DATA_DIR / f"{DB_FILE_PREFIX}_{today}.db"
+def get_today_db_path():
+    return V2_DB_PATH
 
 
 def read_latest_reading():
