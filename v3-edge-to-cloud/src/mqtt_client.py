@@ -1,7 +1,7 @@
 import ssl
 import paho.mqtt.client as mqtt
 
-from config.settings import (
+from src.config.settings import (
     MQTT_CLIENT_ID,
     ROOT_CA_PATH,
     DEVICE_CERT_PATH,

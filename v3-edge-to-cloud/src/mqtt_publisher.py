@@ -4,7 +4,7 @@ from time import sleep
 
 import paho.mqtt.client as mqtt
 
-from config.settings import (
+from src.config.settings import (
     AWS_IOT_ENDPOINT,
     MQTT_PORT,
     MQTT_TOPIC,
