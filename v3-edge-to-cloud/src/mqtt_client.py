@@ -9,15 +9,18 @@ from src.config.settings import (
 )
 
 
-def on_connect(client, userdata, flags, rc):
-    if rc == 0:
-        print("Connected to AWS IoT Core")
+def on_connect(client, userdata, flags, reason_code, properties):
+    if reason_code == 0:
+        print("Connected to AWS IoT Core ✅")
     else:
-        print(f"Connection failed with code: {rc}")
+        print(f"Connection failed with code {reason_code}")
 
 
 def create_mqtt_client():
-    client = mqtt.Client(client_id=MQTT_CLIENT_ID)
+    client = mqtt.Client(
+        mqtt.CallbackAPIVersion.VERSION2,
+        client_id=MQTT_CLIENT_ID,
+    )
 
     client.tls_set(
         ca_certs=str(ROOT_CA_PATH),
@@ -27,5 +30,4 @@ def create_mqtt_client():
     )
 
     client.on_connect = on_connect
-
     return client
