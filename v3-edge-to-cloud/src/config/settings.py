@@ -21,5 +21,5 @@ DEVICE_CERT_PATH = CERTS_DIR / "device-certificate.pem.crt"
 PRIVATE_KEY_PATH = CERTS_DIR / "private.pem.key"
 
 # Publish behaviour
-PUBLISH_INTERVAL_SECONDS = 300
+PUBLISH_INTERVAL_SECONDS = 1800
 MQTT_CLIENT_ID = "indusstream-edge-gateway-01"
