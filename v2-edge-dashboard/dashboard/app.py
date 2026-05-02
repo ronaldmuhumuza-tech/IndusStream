@@ -3,7 +3,12 @@ import math
 import pandas as pd
 from dash import Dash, html, dcc, dash_table, Input, Output
 
-DB_PATH = "/home/pi/indusstream_v2/data/indusstream.db"
+# DB_PATH = "/home/pi/indusstream_v2/data/indusstream.db"
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parents[1]
+DB_PATH = BASE_DIR / "data" / "indusstream.db"
+
 TEMP_OFFSET_C = 6.29
 
 # Replace this with your measured clean-air baseline
