@@ -1,4 +1,4 @@
-# DynamoDB design + future S3
+# DynamoDB design + future S3 (WIP)
 
 ## Covers:
 * Table design:
