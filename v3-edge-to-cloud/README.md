@@ -37,4 +37,7 @@ Arduino Sensors --> Raspberry Pi (Edge Gateway) --> AWS IoT Core (MQTT) --> AWS 
 
 Detailed implementation steps and configuration can be found here:
 
-[Implementation](docs/implementation.md)
+- [Edge Ingestion](docs/01-edge-ingestion.md)
+- [MQTT Publishing](docs/02-mqtt-publishing.md)
+- [Lambda Processing](docs/03-lambda-processing.md)
+- [Data Storage](docs/04-data-storage.md)
