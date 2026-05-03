@@ -60,9 +60,6 @@ Sample query output: via SQLite Querry
 
 ![Remote Terminal Output using direct SQLite connection](../tests/sqlite-latest-reading.png)
 
-
-
-
 ### 3. Validation via Python Reader
 
 The same data can be accessed using the Python reader module:
