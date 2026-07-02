@@ -47,17 +47,6 @@ Focus:
 - Scalable telemetry ingestion
 - Edge-to-cloud integration
 
-##  [v4 — CI/CD Automation & Deployment Engineering](./v4-automated-telemetry-platform/)
-
-Adds automated deployment workflows and DevOps practices to the telemetry platform.
-
-Focus:
-- GitHub Actions CI/CD
-- Automated AWS Lambda deployment
-- IAM secret management
-- Deployment automation
-- Operational workflows
-
 ## Stack
 
 Python • Arduino • Raspberry Pi • SQLite • AWS • MQTT • GitHub Actions • AWS Lambda • Athena • QuickSight
