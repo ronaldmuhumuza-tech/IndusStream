@@ -1,4 +1,4 @@
-# v4 — CI/CD Automation & Deployment Engineering
+# v4 - CI/CD Automation & Deployment Engineering
 
 This version moves IndusStream from a working edge-to-cloud telemetry pipeline into a more automated platform.
 

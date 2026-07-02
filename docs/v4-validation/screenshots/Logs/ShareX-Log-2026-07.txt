@@ -1,0 +1,30 @@
+﻿2026-07-01 20:15:02.135 - ShareX starting.
+2026-07-01 20:15:02.136 - Version: 20.1
+2026-07-01 20:15:02.136 - Build: Release
+2026-07-01 20:15:02.136 - Command line: C:\Users\mrone\AppData\Local\Programs\ShareX\ShareX.dll -silent
+2026-07-01 20:15:02.136 - Personal path: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots
+2026-07-01 20:15:02.136 - Personal path detection method: PersonalPath.cfg file (C:\Users\mrone\OneDrive\Documents\ShareX\PersonalPath.cfg)
+2026-07-01 20:15:02.137 - Operating system: Windows 10 Pro (64-bit)
+2026-07-01 20:15:02.137 - .NET version: 9.0.15
+2026-07-01 20:15:02.137 - Running as elevated process: False
+2026-07-01 20:15:02.147 - Flags: SilentRun
+2026-07-01 20:15:02.219 - ApplicationConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-07-01 20:15:03.230 - ApplicationConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-07-01 20:15:03.376 - Language changed to: English (United Kingdom)
+2026-07-01 20:15:03.377 - Avalonia init started.
+2026-07-01 20:15:03.377 - UploadersConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-07-01 20:15:03.478 - UploadersConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-07-01 20:15:03.479 - HotkeysConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-07-01 20:15:03.499 - HotkeysConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-07-01 20:15:04.673 - Avalonia init finished.
+2026-07-01 20:15:04.673 - MainForm init started.
+2026-07-01 20:15:05.137 - MainForm init finished.
+2026-07-01 20:15:05.243 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-07-01 20:15:05.244 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-07-01 20:15:05.244 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-07-01 20:15:05.244 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-07-01 20:15:05.244 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-07-01 20:15:05.244 - HotkeyManager started.
+2026-07-01 20:15:05.245 - WatchFolderManager started.
+2026-07-01 20:15:05.277 - Startup time: 3831 ms
+2026-07-01 20:15:05.281 - CommandLine: -silent

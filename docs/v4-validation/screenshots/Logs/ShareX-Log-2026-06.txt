@@ -1,0 +1,313 @@
+﻿2026-06-05 18:43:23.619 - ShareX starting.
+2026-06-05 18:43:23.620 - Version: 20.1
+2026-06-05 18:43:23.620 - Build: Release
+2026-06-05 18:43:23.621 - Command line: C:\Users\mrone\AppData\Local\Programs\ShareX\ShareX.dll -silent
+2026-06-05 18:43:23.621 - Personal path: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots
+2026-06-05 18:43:23.621 - Personal path detection method: PersonalPath.cfg file (C:\Users\mrone\OneDrive\Documents\ShareX\PersonalPath.cfg)
+2026-06-05 18:43:23.621 - Operating system: Windows 10 Pro (64-bit)
+2026-06-05 18:43:23.622 - .NET version: 9.0.15
+2026-06-05 18:43:23.622 - Running as elevated process: False
+2026-06-05 18:43:23.653 - Flags: SilentRun
+2026-06-05 18:43:23.804 - ApplicationConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-05 18:43:23.804 - ApplicationConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json.temp
+2026-06-05 18:43:23.804 - ApplicationConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\Backup\ApplicationConfig.json
+2026-06-05 18:43:23.804 - Loading new ApplicationConfig instance.
+2026-06-05 18:43:26.555 - Language changed to: English (United Kingdom)
+2026-06-05 18:43:26.555 - Avalonia init started.
+2026-06-05 18:43:26.556 - UploadersConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-05 18:43:26.556 - UploadersConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json.temp
+2026-06-05 18:43:26.556 - UploadersConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\Backup\UploadersConfig.json
+2026-06-05 18:43:26.556 - Loading new UploadersConfig instance.
+2026-06-05 18:43:26.652 - HotkeysConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-05 18:43:26.652 - HotkeysConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json.temp
+2026-06-05 18:43:26.652 - HotkeysConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\Backup\HotkeysConfig.json
+2026-06-05 18:43:26.652 - Loading new HotkeysConfig instance.
+2026-06-05 18:43:29.809 - Avalonia init finished.
+2026-06-05 18:43:29.809 - MainForm init started.
+2026-06-05 18:43:30.736 - MainForm init finished.
+2026-06-05 18:43:30.894 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-06-05 18:43:30.894 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-06-05 18:43:30.894 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-06-05 18:43:30.894 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-06-05 18:43:30.894 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-06-05 18:43:30.894 - HotkeyManager started.
+2026-06-05 18:43:30.894 - WatchFolderManager started.
+2026-06-05 18:43:30.901 - Startup time: 7948 ms
+2026-06-05 18:43:30.903 - CommandLine: -silent
+2026-06-05 19:59:36.208 - ShareX starting.
+2026-06-05 19:59:36.209 - Version: 20.1
+2026-06-05 19:59:36.209 - Build: Release
+2026-06-05 19:59:36.209 - Command line: C:\Users\mrone\AppData\Local\Programs\ShareX\ShareX.dll -silent
+2026-06-05 19:59:36.210 - Personal path: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots
+2026-06-05 19:59:36.210 - Personal path detection method: PersonalPath.cfg file (C:\Users\mrone\OneDrive\Documents\ShareX\PersonalPath.cfg)
+2026-06-05 19:59:36.210 - Operating system: Windows 10 Pro (64-bit)
+2026-06-05 19:59:36.210 - .NET version: 9.0.15
+2026-06-05 19:59:36.210 - Running as elevated process: False
+2026-06-05 19:59:36.227 - Flags: SilentRun
+2026-06-05 19:59:36.345 - ApplicationConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-05 19:59:36.345 - ApplicationConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json.temp
+2026-06-05 19:59:36.345 - ApplicationConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\Backup\ApplicationConfig.json
+2026-06-05 19:59:36.345 - Loading new ApplicationConfig instance.
+2026-06-05 19:59:38.488 - Language changed to: English (United Kingdom)
+2026-06-05 19:59:38.489 - Avalonia init started.
+2026-06-05 19:59:38.489 - UploadersConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-05 19:59:38.489 - UploadersConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json.temp
+2026-06-05 19:59:38.489 - UploadersConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\Backup\UploadersConfig.json
+2026-06-05 19:59:38.489 - Loading new UploadersConfig instance.
+2026-06-05 19:59:38.618 - HotkeysConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-05 19:59:38.618 - HotkeysConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json.temp
+2026-06-05 19:59:38.618 - HotkeysConfig file does not exist: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\Backup\HotkeysConfig.json
+2026-06-05 19:59:38.618 - Loading new HotkeysConfig instance.
+2026-06-05 19:59:41.115 - Avalonia init finished.
+2026-06-05 19:59:41.115 - MainForm init started.
+2026-06-05 19:59:41.819 - MainForm init finished.
+2026-06-05 19:59:42.000 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-06-05 19:59:42.000 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-06-05 19:59:42.000 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-06-05 19:59:42.000 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-06-05 19:59:42.000 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-06-05 19:59:42.001 - HotkeyManager started.
+2026-06-05 19:59:42.001 - WatchFolderManager started.
+2026-06-05 19:59:42.011 - Startup time: 7388 ms
+2026-06-05 19:59:42.013 - CommandLine: -silent
+2026-06-05 23:42:00.680 - Executing: Capture region
+2026-06-11 09:51:13.529 - ShareX closing.
+2026-06-11 09:51:13.541 - ApplicationConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-11 09:51:13.845 - ApplicationConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-11 09:51:13.846 - UploadersConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-11 09:51:13.962 - UploadersConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-11 09:51:13.963 - HotkeysConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-11 09:51:13.993 - HotkeysConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-11 09:51:13.993 - ShareX closed.
+2026-06-11 21:48:51.960 - ShareX starting.
+2026-06-11 21:48:51.961 - Version: 20.1
+2026-06-11 21:48:51.961 - Build: Release
+2026-06-11 21:48:51.962 - Command line: C:\Users\mrone\AppData\Local\Programs\ShareX\ShareX.dll -silent
+2026-06-11 21:48:51.962 - Personal path: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots
+2026-06-11 21:48:51.962 - Personal path detection method: PersonalPath.cfg file (C:\Users\mrone\OneDrive\Documents\ShareX\PersonalPath.cfg)
+2026-06-11 21:48:51.962 - Operating system: Windows 10 Pro (64-bit)
+2026-06-11 21:48:51.963 - .NET version: 9.0.15
+2026-06-11 21:48:51.963 - Running as elevated process: False
+2026-06-11 21:48:51.972 - Flags: SilentRun
+2026-06-11 21:48:52.058 - ApplicationConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-11 21:48:53.610 - ApplicationConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-11 21:48:54.027 - Language changed to: English (United Kingdom)
+2026-06-11 21:48:54.027 - UploadersConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-11 21:48:54.027 - Avalonia init started.
+2026-06-11 21:48:54.344 - UploadersConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-11 21:48:54.349 - HotkeysConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-11 21:48:54.411 - HotkeysConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-11 21:48:56.737 - Avalonia init finished.
+2026-06-11 21:48:56.737 - MainForm init started.
+2026-06-11 21:48:57.242 - MainForm init finished.
+2026-06-11 21:48:57.351 - Unable to register hotkey: Ctrl + Print Screen
+2026-06-11 21:48:57.352 - Hotkey register failed: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-06-11 21:48:57.352 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-06-11 21:48:57.352 - Unable to register hotkey: Alt + Print Screen
+2026-06-11 21:48:57.352 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-06-11 21:48:57.352 - Unable to register hotkey: Shift + Print Screen
+2026-06-11 21:48:57.352 - Hotkey register failed: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-06-11 21:48:57.352 - Unable to register hotkey: Ctrl + Shift + Print Screen
+2026-06-11 21:48:57.352 - Hotkey register failed: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-06-11 21:51:31.612 - HotkeyManager started.
+2026-06-11 21:51:31.613 - WatchFolderManager started.
+2026-06-11 21:51:31.619 - Startup time: 160017 ms
+2026-06-11 21:51:31.621 - CommandLine: -silent
+2026-06-27 22:47:27.884 - ShareX closing.
+2026-06-27 22:47:27.942 - ApplicationConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-27 22:47:28.256 - ApplicationConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-27 22:47:28.256 - UploadersConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-27 22:47:28.354 - UploadersConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-27 22:47:28.355 - HotkeysConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-27 22:47:28.390 - HotkeysConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-27 22:47:28.390 - ShareX closed.
+2026-06-27 22:52:49.272 - ShareX starting.
+2026-06-27 22:52:49.273 - Version: 20.1
+2026-06-27 22:52:49.273 - Build: Release
+2026-06-27 22:52:49.274 - Command line: C:\Users\mrone\AppData\Local\Programs\ShareX\ShareX.dll -silent
+2026-06-27 22:52:49.274 - Personal path: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots
+2026-06-27 22:52:49.274 - Personal path detection method: PersonalPath.cfg file (C:\Users\mrone\OneDrive\Documents\ShareX\PersonalPath.cfg)
+2026-06-27 22:52:49.274 - Operating system: Windows 10 Pro (64-bit)
+2026-06-27 22:52:49.275 - .NET version: 9.0.15
+2026-06-27 22:52:49.275 - Running as elevated process: False
+2026-06-27 22:52:49.285 - Flags: SilentRun
+2026-06-27 22:52:49.373 - ApplicationConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-27 22:52:51.099 - ApplicationConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-27 22:52:51.474 - Language changed to: English (United Kingdom)
+2026-06-27 22:52:51.474 - Avalonia init started.
+2026-06-27 22:52:51.475 - UploadersConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-27 22:52:51.647 - UploadersConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-27 22:52:51.649 - HotkeysConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-27 22:52:51.687 - HotkeysConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-27 22:52:53.505 - Avalonia init finished.
+2026-06-27 22:52:53.505 - MainForm init started.
+2026-06-27 22:52:54.181 - MainForm init finished.
+2026-06-27 22:52:54.313 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-06-27 22:52:54.313 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-06-27 22:52:54.313 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-06-27 22:52:54.313 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-06-27 22:52:54.313 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-06-27 22:52:54.313 - HotkeyManager started.
+2026-06-27 22:52:54.314 - WatchFolderManager started.
+2026-06-27 22:52:54.333 - Startup time: 7059 ms
+2026-06-27 22:52:54.339 - CommandLine: -silent
+2026-06-28 02:18:04.840 - ShareX closing.
+2026-06-28 02:18:04.848 - ApplicationConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 02:18:05.001 - ApplicationConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 02:18:05.002 - UploadersConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 02:18:05.047 - UploadersConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 02:18:05.048 - HotkeysConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 02:18:05.072 - HotkeysConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 02:18:05.072 - ShareX closed.
+2026-06-28 02:19:39.376 - ShareX starting.
+2026-06-28 02:19:39.378 - Version: 20.1
+2026-06-28 02:19:39.378 - Build: Release
+2026-06-28 02:19:39.378 - Command line: C:\Users\mrone\AppData\Local\Programs\ShareX\ShareX.dll -silent
+2026-06-28 02:19:39.378 - Personal path: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots
+2026-06-28 02:19:39.378 - Personal path detection method: PersonalPath.cfg file (C:\Users\mrone\OneDrive\Documents\ShareX\PersonalPath.cfg)
+2026-06-28 02:19:39.378 - Operating system: Windows 10 Pro (64-bit)
+2026-06-28 02:19:39.379 - .NET version: 9.0.15
+2026-06-28 02:19:39.379 - Running as elevated process: False
+2026-06-28 02:19:39.389 - Flags: SilentRun
+2026-06-28 02:19:39.461 - ApplicationConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 02:19:40.439 - ApplicationConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 02:19:40.596 - Language changed to: English (United Kingdom)
+2026-06-28 02:19:40.596 - Avalonia init started.
+2026-06-28 02:19:40.596 - UploadersConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 02:19:40.690 - UploadersConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 02:19:40.691 - HotkeysConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 02:19:40.712 - HotkeysConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 02:19:41.728 - Avalonia init finished.
+2026-06-28 02:19:41.728 - MainForm init started.
+2026-06-28 02:19:42.027 - MainForm init finished.
+2026-06-28 02:19:42.109 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-06-28 02:19:42.109 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-06-28 02:19:42.109 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-06-28 02:19:42.109 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-06-28 02:19:42.109 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-06-28 02:19:42.109 - HotkeyManager started.
+2026-06-28 02:19:42.110 - WatchFolderManager started.
+2026-06-28 02:19:42.119 - Startup time: 3035 ms
+2026-06-28 02:19:42.120 - CommandLine: -silent
+2026-06-28 02:22:59.935 - ShareX closing.
+2026-06-28 02:22:59.942 - ApplicationConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 02:23:00.087 - ApplicationConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 02:23:00.088 - UploadersConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 02:23:00.151 - UploadersConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 02:23:00.152 - HotkeysConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 02:23:00.171 - HotkeysConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 02:23:00.171 - ShareX closed.
+2026-06-28 02:24:33.681 - ShareX starting.
+2026-06-28 02:24:33.682 - Version: 20.1
+2026-06-28 02:24:33.682 - Build: Release
+2026-06-28 02:24:33.683 - Command line: C:\Users\mrone\AppData\Local\Programs\ShareX\ShareX.dll -silent
+2026-06-28 02:24:33.683 - Personal path: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots
+2026-06-28 02:24:33.683 - Personal path detection method: PersonalPath.cfg file (C:\Users\mrone\OneDrive\Documents\ShareX\PersonalPath.cfg)
+2026-06-28 02:24:33.683 - Operating system: Windows 10 Pro (64-bit)
+2026-06-28 02:24:33.684 - .NET version: 9.0.15
+2026-06-28 02:24:33.684 - Running as elevated process: False
+2026-06-28 02:24:33.695 - Flags: SilentRun
+2026-06-28 02:24:33.772 - ApplicationConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 02:24:34.898 - ApplicationConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 02:24:35.116 - Language changed to: English (United Kingdom)
+2026-06-28 02:24:35.116 - Avalonia init started.
+2026-06-28 02:24:35.117 - UploadersConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 02:24:35.255 - UploadersConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 02:24:35.256 - HotkeysConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 02:24:35.291 - HotkeysConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 02:24:36.493 - Avalonia init finished.
+2026-06-28 02:24:36.493 - MainForm init started.
+2026-06-28 02:24:36.756 - MainForm init finished.
+2026-06-28 02:24:36.851 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-06-28 02:24:36.852 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-06-28 02:24:36.852 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-06-28 02:24:36.852 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-06-28 02:24:36.852 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-06-28 02:24:36.852 - HotkeyManager started.
+2026-06-28 02:24:36.853 - WatchFolderManager started.
+2026-06-28 02:24:36.861 - Startup time: 4671 ms
+2026-06-28 02:24:36.863 - CommandLine: -silent
+2026-06-28 02:30:31.645 - ShareX closing.
+2026-06-28 02:30:31.658 - ApplicationConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 02:30:31.787 - ApplicationConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 02:30:31.788 - UploadersConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 02:30:31.832 - UploadersConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 02:30:31.832 - HotkeysConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 02:30:31.850 - HotkeysConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 02:30:31.850 - ShareX closed.
+2026-06-28 12:35:20.655 - ShareX starting.
+2026-06-28 12:35:20.656 - Version: 20.1
+2026-06-28 12:35:20.656 - Build: Release
+2026-06-28 12:35:20.657 - Command line: C:\Users\mrone\AppData\Local\Programs\ShareX\ShareX.dll -silent
+2026-06-28 12:35:20.657 - Personal path: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots
+2026-06-28 12:35:20.657 - Personal path detection method: PersonalPath.cfg file (C:\Users\mrone\OneDrive\Documents\ShareX\PersonalPath.cfg)
+2026-06-28 12:35:20.657 - Operating system: Windows 10 Pro (64-bit)
+2026-06-28 12:35:20.657 - .NET version: 9.0.15
+2026-06-28 12:35:20.658 - Running as elevated process: False
+2026-06-28 12:35:20.668 - Flags: SilentRun
+2026-06-28 12:35:20.672 - ApplicationConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 12:35:20.899 - ApplicationConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-28 12:35:20.943 - Language changed to: English (United Kingdom)
+2026-06-28 12:35:20.943 - Avalonia init started.
+2026-06-28 12:35:20.943 - UploadersConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 12:35:20.977 - UploadersConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-28 12:35:20.978 - HotkeysConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 12:35:20.991 - HotkeysConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-28 12:35:21.129 - Avalonia init finished.
+2026-06-28 12:35:21.129 - MainForm init started.
+2026-06-28 12:35:21.440 - MainForm init finished.
+2026-06-28 12:35:21.510 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-06-28 12:35:21.510 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-06-28 12:35:21.510 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-06-28 12:35:21.510 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-06-28 12:35:21.510 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-06-28 12:35:21.511 - HotkeyManager started.
+2026-06-28 12:35:21.511 - WatchFolderManager started.
+2026-06-28 12:35:21.518 - Startup time: 995 ms
+2026-06-28 12:35:21.519 - CommandLine: -silent
+2026-06-30 21:31:13.602 - ShareX closing.
+2026-06-30 21:31:13.612 - ApplicationConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-30 21:31:13.814 - ApplicationConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-30 21:31:13.815 - UploadersConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-30 21:31:13.872 - UploadersConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-30 21:31:13.873 - HotkeysConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-30 21:31:13.901 - HotkeysConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-30 21:31:13.901 - ShareX closed.
+2026-06-30 21:33:05.573 - ShareX starting.
+2026-06-30 21:33:05.575 - Version: 20.1
+2026-06-30 21:33:05.575 - Build: Release
+2026-06-30 21:33:05.575 - Command line: C:\Users\mrone\AppData\Local\Programs\ShareX\ShareX.dll -silent
+2026-06-30 21:33:05.575 - Personal path: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots
+2026-06-30 21:33:05.575 - Personal path detection method: PersonalPath.cfg file (C:\Users\mrone\OneDrive\Documents\ShareX\PersonalPath.cfg)
+2026-06-30 21:33:05.575 - Operating system: Windows 10 Pro (64-bit)
+2026-06-30 21:33:05.576 - .NET version: 9.0.15
+2026-06-30 21:33:05.576 - Running as elevated process: False
+2026-06-30 21:33:05.585 - Flags: SilentRun
+2026-06-30 21:33:05.654 - ApplicationConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-30 21:33:06.436 - ApplicationConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-06-30 21:33:06.579 - Language changed to: English (United Kingdom)
+2026-06-30 21:33:06.580 - Avalonia init started.
+2026-06-30 21:33:06.580 - UploadersConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-30 21:33:06.661 - UploadersConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-06-30 21:33:06.661 - HotkeysConfig load started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-30 21:33:06.680 - HotkeysConfig load finished: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-06-30 21:33:07.639 - Avalonia init finished.
+2026-06-30 21:33:07.639 - MainForm init started.
+2026-06-30 21:33:07.868 - MainForm init finished.
+2026-06-30 21:33:07.922 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-06-30 21:33:07.922 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-06-30 21:33:07.922 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-06-30 21:33:07.922 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-06-30 21:33:07.922 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-06-30 21:33:07.923 - HotkeyManager started.
+2026-06-30 21:33:07.923 - WatchFolderManager started.
+2026-06-30 21:33:07.927 - Startup time: 2590 ms
+2026-06-30 21:33:07.928 - CommandLine: -silent
+2026-07-01 08:00:45.016 - ShareX closing.
+2026-07-01 08:00:45.027 - ApplicationConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-07-01 08:00:45.156 - ApplicationConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\ApplicationConfig.json
+2026-07-01 08:00:45.157 - UploadersConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-07-01 08:00:45.198 - UploadersConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\UploadersConfig.json
+2026-07-01 08:00:45.199 - HotkeysConfig save started: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-07-01 08:00:45.217 - HotkeysConfig save successful: D:\AWS SA 2025\projects\IndusStream-Legacy\docs\v4-validation\screenshots\HotkeysConfig.json
+2026-07-01 08:00:45.217 - ShareX closed.
