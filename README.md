@@ -4,20 +4,6 @@ A hands-on project exploring how telemetry systems collect, process, and visuali
 
 The project evolves through progressively more advanced implementations, moving from simulation to real hardware and toward scalable cloud architectures.
 
-## Network Infrastructure Context
-
-This system is designed to operate within a broader simulated enterprise network environment. This approach demonstrates end-to-end system design, spanning network infrastructure, edge processing, cloud ingestion, and analytics.
-
-→ [Network Infrastructure Engineering](https://github.com/ronaldmuhumuza-tech/network-infrastructure-engineering)
-
-This complementary project models:
-
-- VLAN segmentation and Layer 2 design  
-- Routing and Layer 3 architecture (OSPF)  
-- Hybrid cloud connectivity and more 
-
-Together, these projects reflect real-world enterprise architectures where edge telemetry systems are deployed within structured, secure, and scalable network environments.
-
 ## Projects
 
 ### [v1 – Serverless Telemetry](./v1-serverless-telemetry/)
