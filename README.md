@@ -4,8 +4,6 @@ A hands-on project exploring how telemetry systems collect, process, and visuali
 
 The project evolves through progressively more advanced implementations, moving from simulation to real hardware and toward scalable cloud architectures.
 
-Together, these projects reflect real-world enterprise architectures where edge telemetry systems are deployed within structured, secure, and scalable network environments.
-
 ## Projects
 
 ### [v1 – Serverless Telemetry](./v1-serverless-telemetry/)
